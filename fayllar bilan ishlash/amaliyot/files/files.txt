@@ -1,0 +1,5 @@
+fayllar 'with open() as smth' deb ochilishi tavsiya qiliniadi. Chunki bu usul ancha xavfsizdir.
+yozish uchun fayllar ochilsa fayl ichidagi naralarni hammasi o'chib ketadi.
+'a' usuli bilan mavjud faylning oxiriga ma'lumot qo'shsa bo'ladi. 'a' = append.
+pickle modulidan foydalanilsa, u orqali yaratilgan faylni faqatgina python dasturi ko'ra oladi.
+.readlines() metodidan foydalanilsa, fayl ichidagi ma'lumotlarni ro'yxat ko'rinishida qaytaradi
